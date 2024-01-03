@@ -29,6 +29,6 @@ public class AppUserEntity {
     private int etat;
     @ManyToMany
     private List<AppRolesEntity> appRoleEntities;
-    @OneToMany(mappedBy = "appUserEntity")
+    @OneToMany(mappedBy ="appUserEntity")
     private List <ProduitEntity> produitEntities;
 }
