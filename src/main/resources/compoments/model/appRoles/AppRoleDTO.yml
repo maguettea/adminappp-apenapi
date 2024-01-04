@@ -1,0 +1,14 @@
+type: object
+properties:
+  idAppRole:
+    type: integer
+    description: the ID of the Role
+    format: int64
+  name:
+    type: string
+    description: name of the Role
+  appUser:
+    type: array
+    description: The List of Role for the users
+    items:
+      $ref: '../appUsers/AppUserDTO.yml'

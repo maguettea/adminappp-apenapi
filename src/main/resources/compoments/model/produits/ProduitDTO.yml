@@ -1,0 +1,13 @@
+type: object
+properties:
+  idProduit:
+    type: integer
+    description: the ID of the product
+    format: int64
+  name:
+    type: string
+    description: name of the product
+  quantity:
+    type: qtStock
+    description: quantity of the product
+    format: double

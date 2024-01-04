@@ -1,0 +1,184 @@
+openapi: 3.0.3
+
+info:
+  title: API de App USER
+  version: "1.0"
+  description:  AppUser API
+
+servers:
+  - url: http://localhost:8080/app-admin/api
+
+tags:
+  - name: AppUser
+    description: AppUser specific data.
+
+paths:
+  /appUsers:
+    get:
+      tags:
+        - AppUser
+      summary: Get All Actifs Users
+      operationId: getAllUsers
+      parameters:
+        - name: currentPage
+          in: query
+          required: true
+          schema:
+            type: integer
+            format: int32
+        - name: sizePage
+          in: query
+          required: true
+          schema:
+            type: integer
+            format: int32
+      responses:
+        200:
+          description: SUCCESS
+          content:
+            'application/json':
+              schema:
+                $ref: '../model/appUsers/AppUserResultListDTO.yml'
+              example:
+                userList:
+                  - lastName: Kane
+                  - firstName: Maguette
+                    email: maguettekanea@gmail.com
+                    password: max12345!
+                    etat: 2
+                  - lastName: Seck
+                  - firstName: Papis
+                    email: papis@gmail.com
+                    password: seck123456?
+                    etat: 2
+        404:
+          description: NOT FOUND
+        400:
+          description: BAD REQUEST
+
+    post:
+      tags:
+        - AppUser
+      summary: Adding user
+      operationId: addAppUser
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '../model/appUsers/AppUserDTO.yml'
+            example:
+              idAppUser: 1
+              lastName: Seck
+              firstName: Mbene
+              email: mbene@seck.com
+              password: passer123!
+              etat: 2
+      responses:
+        '200':
+          description: SUCCESS
+          content:
+           application/json:
+             schema:
+                $ref: '../model/appUsers/AppUserDTO.yml'
+             example:
+                    idAppUser: 1
+                    lastName: SECK
+                    firstName: Mbene
+                    email: mbene@seck.com
+                    password: passer123!
+                    etat: 2
+        '404':
+          description: NOT FOUND
+        '400':
+          description: BAD REQUEST
+
+  /appUsers-reference:
+    get:
+      tags:
+        - AppUser
+      summary: Retrieve an user
+      operationId: getAppUser
+      parameters:
+        - name: idAppUser
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int64
+          example:
+            idAppUser: 1
+      responses:
+        '200':
+          description: SUCCESS
+          content:
+            application/json:
+              schema:
+                $ref: '../model/appUsers/AppUserDTO.yml'
+              examples:
+                appUser1:
+                   value:
+                       idProduit:  1
+                       lastName: Kane
+                       firstName: Maguette
+                       email: Maguette@gmail.com
+                       password: max12345!
+                       etat: 2
+                appUser2:
+                  value:
+                    idProduit: 1
+                    lastName: Kane
+                    firstName: Maguette
+                    email: Maguette@gmail.com
+                    password: max12345!
+                    etat: 2
+        '404':
+          description: NOT FOUND
+        '400':
+          description: BAD REQUEST
+
+    put:
+      tags:
+        - AppUser
+      summary: update the user adding
+      operationId: updateAppUser
+      parameters:
+        - name: idAppUser
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int64
+          example:
+            idAppUser: 1
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '../model/appUsers/AppUserDTO.yml'
+            examples:
+              appUser:
+                value:
+                  idProduit: 1
+                  lastName: Kane
+                  firstName: Maguette
+                  email: Maguette@gmail.com
+                  password: max12345!
+                  etat: 2
+      responses:
+        '200':
+          description: SUCCESS
+          content:
+            application/json:
+              schema:
+                $ref: '../model/appUsers/AppUserDTO.yml'
+              example:
+                idProduit: 1
+                lastName: Kane
+                firstName: Maguette
+                email: Maguette@gmail.com
+                password: max12345!
+                etat: 2
+        '404':
+          description: NOT FOUND
+        '400':
+          description: BAD REQUEST
