@@ -1,0 +1,3189 @@
+{
+  "instant" : {
+    "epochSecond" : 1703357099,
+    "nanoOfSecond" : 713985900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.9 with PID 17712 (C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357099,
+    "nanoOfSecond" : 264147800
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357100,
+    "nanoOfSecond" : 115370000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357100,
+    "nanoOfSecond" : 470478700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357100,
+    "nanoOfSecond" : 472476900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357103,
+    "nanoOfSecond" : 379256300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357103,
+    "nanoOfSecond" : 591258400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 181 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 308036400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 338131400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 345125700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 347128700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 585209400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357106,
+    "nanoOfSecond" : 603205100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 6117 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357108,
+    "nanoOfSecond" : 685379500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357109,
+    "nanoOfSecond" : 176369900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357109,
+    "nanoOfSecond" : 347350000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357110,
+    "nanoOfSecond" : 592054300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357111,
+    "nanoOfSecond" : 16341900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357112,
+    "nanoOfSecond" : 165267600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7583002e",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357112,
+    "nanoOfSecond" : 172636100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 438682600
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Failed to initialize JPA EntityManagerFactory: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 441688300
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 446683300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 522329600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 532193800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 574191600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357113,
+    "nanoOfSecond" : 648198400
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.SpringApplication",
+  "message" : "Application run failed",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "message" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "name" : "org.springframework.beans.factory.BeanCreationException",
+    "cause" : {
+      "commonElementCount" : 21,
+      "localizedMessage" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "message" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "name" : "org.hibernate.AnnotationException",
+      "extendedStackTrace" : [ {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "isReversePropertyInJoin",
+        "file" : "CollectionBinder.java",
+        "line" : 1611,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "noAssociationTable",
+        "file" : "CollectionBinder.java",
+        "line" : 1625,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "bindStarToManySecondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1586,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder$1",
+        "method" : "secondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1577,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionSecondPass",
+        "method" : "doSecondPass",
+        "file" : "CollectionSecondPass.java",
+        "line" : 45,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1815,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1774,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.process.spi.MetadataBuildingProcess",
+        "method" : "complete",
+        "file" : "MetadataBuildingProcess.java",
+        "line" : 331,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "metadata",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1432,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "build",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1503,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider",
+        "method" : "createContainerEntityManagerFactory",
+        "file" : "SpringHibernateJpaPersistenceProvider.java",
+        "line" : 75,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "createNativeEntityManagerFactory",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 376,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "buildNativeEntityManagerFactory",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 409,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 396,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 352,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "invokeInitMethods",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1822,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "initializeBean",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1771,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      } ]
+    },
+    "extendedStackTrace" : [ {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "initializeBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1775,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "doCreateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 601,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 523,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "lambda$doGetBean$0",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 325,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+      "method" : "getSingleton",
+      "file" : "DefaultSingletonBeanRegistry.java",
+      "line" : 234,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 323,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 199,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "getBean",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 1173,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "finishBeanFactoryInitialization",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 936,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "refresh",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 616,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+      "method" : "refresh",
+      "file" : "ServletWebServerApplicationContext.java",
+      "line" : 146,
+      "exact" : false,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refresh",
+      "file" : "SpringApplication.java",
+      "line" : 753,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refreshContext",
+      "file" : "SpringApplication.java",
+      "line" : 455,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 323,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1342,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1331,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "class" : "sn.isi.AdminAppApplication",
+      "method" : "main",
+      "file" : "AdminAppApplication.java",
+      "line" : 10,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.devtools.restart.RestartLauncher",
+      "method" : "run",
+      "file" : "RestartLauncher.java",
+      "line" : 50,
+      "exact" : true,
+      "location" : "spring-boot-devtools-3.2.0.jar",
+      "version" : "3.2.0"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357252,
+    "nanoOfSecond" : 817934100
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357252,
+    "nanoOfSecond" : 931914600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.9 with PID 3980 (C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357253,
+    "nanoOfSecond" : 133420100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357253,
+    "nanoOfSecond" : 266414200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357253,
+    "nanoOfSecond" : 268417900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357254,
+    "nanoOfSecond" : 907504800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357255,
+    "nanoOfSecond" : 16507000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 94 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 434707500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 452714900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 456716500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 457708800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 567437300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357256,
+    "nanoOfSecond" : 573438500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 3298 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357257,
+    "nanoOfSecond" : 16918800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357257,
+    "nanoOfSecond" : 135162600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357257,
+    "nanoOfSecond" : 199172000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357257,
+    "nanoOfSecond" : 752710300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357257,
+    "nanoOfSecond" : 812712300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357258,
+    "nanoOfSecond" : 470327700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@703cd567",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357258,
+    "nanoOfSecond" : 475652100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 374264400
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Failed to initialize JPA EntityManagerFactory: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 375986900
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 378830000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 424417600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 437370800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 459962800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357259,
+    "nanoOfSecond" : 497959900
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.SpringApplication",
+  "message" : "Application run failed",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "message" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "name" : "org.springframework.beans.factory.BeanCreationException",
+    "cause" : {
+      "commonElementCount" : 21,
+      "localizedMessage" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "message" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntity' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "name" : "org.hibernate.AnnotationException",
+      "extendedStackTrace" : [ {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "isReversePropertyInJoin",
+        "file" : "CollectionBinder.java",
+        "line" : 1611,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "noAssociationTable",
+        "file" : "CollectionBinder.java",
+        "line" : 1625,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "bindStarToManySecondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1586,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder$1",
+        "method" : "secondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1577,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionSecondPass",
+        "method" : "doSecondPass",
+        "file" : "CollectionSecondPass.java",
+        "line" : 45,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1815,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1774,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.process.spi.MetadataBuildingProcess",
+        "method" : "complete",
+        "file" : "MetadataBuildingProcess.java",
+        "line" : 331,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "metadata",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1432,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "build",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1503,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider",
+        "method" : "createContainerEntityManagerFactory",
+        "file" : "SpringHibernateJpaPersistenceProvider.java",
+        "line" : 75,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "createNativeEntityManagerFactory",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 376,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "buildNativeEntityManagerFactory",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 409,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 396,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 352,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "invokeInitMethods",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1822,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "initializeBean",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1771,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      } ]
+    },
+    "extendedStackTrace" : [ {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "initializeBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1775,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "doCreateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 601,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 523,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "lambda$doGetBean$0",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 325,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+      "method" : "getSingleton",
+      "file" : "DefaultSingletonBeanRegistry.java",
+      "line" : 234,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 323,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 199,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "getBean",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 1173,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "finishBeanFactoryInitialization",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 936,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "refresh",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 616,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+      "method" : "refresh",
+      "file" : "ServletWebServerApplicationContext.java",
+      "line" : 146,
+      "exact" : false,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refresh",
+      "file" : "SpringApplication.java",
+      "line" : 753,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refreshContext",
+      "file" : "SpringApplication.java",
+      "line" : 455,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 323,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1342,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1331,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "class" : "sn.isi.AdminAppApplication",
+      "method" : "main",
+      "file" : "AdminAppApplication.java",
+      "line" : 10,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.devtools.restart.RestartLauncher",
+      "method" : "run",
+      "file" : "RestartLauncher.java",
+      "line" : 50,
+      "exact" : true,
+      "location" : "spring-boot-devtools-3.2.0.jar",
+      "version" : "3.2.0"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357699,
+    "nanoOfSecond" : 192135500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.9 with PID 14676 (C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357699,
+    "nanoOfSecond" : 89561800
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357699,
+    "nanoOfSecond" : 375311200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357699,
+    "nanoOfSecond" : 609310600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357699,
+    "nanoOfSecond" : 611308500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357701,
+    "nanoOfSecond" : 509968500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357701,
+    "nanoOfSecond" : 616129000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 91 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 21173000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 38165800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 43168200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 44166000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 167164900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 171167900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 3554 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 609072200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 724077900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357703,
+    "nanoOfSecond" : 796095700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357704,
+    "nanoOfSecond" : 227731800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357704,
+    "nanoOfSecond" : 294426900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357704,
+    "nanoOfSecond" : 917363800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c71589d",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357704,
+    "nanoOfSecond" : 922116600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 722106800
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Failed to initialize JPA EntityManagerFactory: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 725878200
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 731736100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 811849500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 819096900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 854456100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357705,
+    "nanoOfSecond" : 901454500
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.SpringApplication",
+  "message" : "Application run failed",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "message" : "Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+    "name" : "org.springframework.beans.factory.BeanCreationException",
+    "cause" : {
+      "commonElementCount" : 21,
+      "localizedMessage" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "message" : "Collection 'sn.isi.entities.AppRolesEntity.appUserEntity' is 'mappedBy' a property named 'appRolesEntities' which does not exist in the target entity 'sn.isi.entities.AppUserEntity'",
+      "name" : "org.hibernate.AnnotationException",
+      "extendedStackTrace" : [ {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "isReversePropertyInJoin",
+        "file" : "CollectionBinder.java",
+        "line" : 1611,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "noAssociationTable",
+        "file" : "CollectionBinder.java",
+        "line" : 1625,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder",
+        "method" : "bindStarToManySecondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1586,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionBinder$1",
+        "method" : "secondPass",
+        "file" : "CollectionBinder.java",
+        "line" : 1577,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.internal.CollectionSecondPass",
+        "method" : "doSecondPass",
+        "file" : "CollectionSecondPass.java",
+        "line" : 45,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1815,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.internal.InFlightMetadataCollectorImpl",
+        "method" : "processSecondPasses",
+        "file" : "InFlightMetadataCollectorImpl.java",
+        "line" : 1774,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.boot.model.process.spi.MetadataBuildingProcess",
+        "method" : "complete",
+        "file" : "MetadataBuildingProcess.java",
+        "line" : 331,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "metadata",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1432,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl",
+        "method" : "build",
+        "file" : "EntityManagerFactoryBuilderImpl.java",
+        "line" : 1503,
+        "exact" : false,
+        "location" : "hibernate-core-6.3.1.Final.jar",
+        "version" : "6.3.1.Final"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider",
+        "method" : "createContainerEntityManagerFactory",
+        "file" : "SpringHibernateJpaPersistenceProvider.java",
+        "line" : 75,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "createNativeEntityManagerFactory",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 376,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "buildNativeEntityManagerFactory",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 409,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.AbstractEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "AbstractEntityManagerFactoryBean.java",
+        "line" : 396,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+        "method" : "afterPropertiesSet",
+        "file" : "LocalContainerEntityManagerFactoryBean.java",
+        "line" : 352,
+        "exact" : false,
+        "location" : "spring-orm-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "invokeInitMethods",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1822,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "initializeBean",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1771,
+        "exact" : false,
+        "location" : "spring-beans-6.1.1.jar",
+        "version" : "6.1.1"
+      } ]
+    },
+    "extendedStackTrace" : [ {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "initializeBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1775,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "doCreateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 601,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 523,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "lambda$doGetBean$0",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 325,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+      "method" : "getSingleton",
+      "file" : "DefaultSingletonBeanRegistry.java",
+      "line" : 234,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 323,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 199,
+      "exact" : false,
+      "location" : "spring-beans-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "getBean",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 1173,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "finishBeanFactoryInitialization",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 936,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "refresh",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 616,
+      "exact" : false,
+      "location" : "spring-context-6.1.1.jar",
+      "version" : "6.1.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+      "method" : "refresh",
+      "file" : "ServletWebServerApplicationContext.java",
+      "line" : 146,
+      "exact" : false,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refresh",
+      "file" : "SpringApplication.java",
+      "line" : 753,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refreshContext",
+      "file" : "SpringApplication.java",
+      "line" : 455,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 323,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1342,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1331,
+      "exact" : true,
+      "location" : "spring-boot-3.2.0.jar",
+      "version" : "3.2.0"
+    }, {
+      "class" : "sn.isi.AdminAppApplication",
+      "method" : "main",
+      "file" : "AdminAppApplication.java",
+      "line" : 10,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.9",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.devtools.restart.RestartLauncher",
+      "method" : "run",
+      "file" : "RestartLauncher.java",
+      "line" : 50,
+      "exact" : true,
+      "location" : "spring-boot-devtools-3.2.0.jar",
+      "version" : "3.2.0"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357817,
+    "nanoOfSecond" : 504721700
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357817,
+    "nanoOfSecond" : 626714400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.9 with PID 192 (C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357817,
+    "nanoOfSecond" : 800479800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357817,
+    "nanoOfSecond" : 948485100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357817,
+    "nanoOfSecond" : 950482600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357819,
+    "nanoOfSecond" : 454731600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357819,
+    "nanoOfSecond" : 565455300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 98 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357820,
+    "nanoOfSecond" : 941490300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357820,
+    "nanoOfSecond" : 957491400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357820,
+    "nanoOfSecond" : 961491300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357820,
+    "nanoOfSecond" : 962489600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357821,
+    "nanoOfSecond" : 77019100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357821,
+    "nanoOfSecond" : 81018700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 3126 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357821,
+    "nanoOfSecond" : 509027700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357821,
+    "nanoOfSecond" : 637697700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357821,
+    "nanoOfSecond" : 701691000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357822,
+    "nanoOfSecond" : 149216200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357822,
+    "nanoOfSecond" : 204213200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357822,
+    "nanoOfSecond" : 805470500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ecfa6d7",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357822,
+    "nanoOfSecond" : 811415200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357825,
+    "nanoOfSecond" : 476728500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357827,
+    "nanoOfSecond" : 323955000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 138118300
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserController' defined in file [C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes\\sn\\isi\\controller\\AppUserController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'appUserService' defined in file [C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes\\sn\\isi\\service\\AppUserService.class]: Unsatisfied dependency expressed through constructor parameter 1: No qualifying bean of type 'sn.isi.mapping.AppUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 139120100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 150118400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 190536600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 196174200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 220692000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703357828,
+    "nanoOfSecond" : 266695800
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter",
+  "message" : "\r\n\r\n***************************\r\nAPPLICATION FAILED TO START\r\n***************************\r\n\r\nDescription:\r\n\r\nParameter 1 of constructor in sn.isi.service.AppUserService required a bean of type 'sn.isi.mapping.AppUserMapper' that could not be found.\r\n\r\n\r\nAction:\r\n\r\nConsider defining a bean of type 'sn.isi.mapping.AppUserMapper' in your configuration.\r\n",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358386,
+    "nanoOfSecond" : 838456600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.9 with PID 19832 (C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358386,
+    "nanoOfSecond" : 721462100
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358387,
+    "nanoOfSecond" : 9498300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358387,
+    "nanoOfSecond" : 146494600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358387,
+    "nanoOfSecond" : 149495000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358388,
+    "nanoOfSecond" : 865336400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358388,
+    "nanoOfSecond" : 976144300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 97 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 391515500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 414511400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 420511900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 421507800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 566135200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 569997400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 3416 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 892052400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358390,
+    "nanoOfSecond" : 997657900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358391,
+    "nanoOfSecond" : 64658600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358391,
+    "nanoOfSecond" : 621848800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358391,
+    "nanoOfSecond" : 705844900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358392,
+    "nanoOfSecond" : 261588200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51ff50f6",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358392,
+    "nanoOfSecond" : 266514500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358394,
+    "nanoOfSecond" : 626352800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358394,
+    "nanoOfSecond" : 807390400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 517574600
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserController' defined in file [C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes\\sn\\isi\\controller\\AppUserController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'appUserService' defined in file [C:\\Users\\HP\\Desktop\\JEE\\spring_web\\admin-app\\target\\classes\\sn\\isi\\service\\AppUserService.class]: Unsatisfied dependency expressed through constructor parameter 1: No qualifying bean of type 'sn.isi.mapping.AppUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 518575500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 524572400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 567054400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 571778000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 596240300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1703358395,
+    "nanoOfSecond" : 651653800
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter",
+  "message" : "\r\n\r\n***************************\r\nAPPLICATION FAILED TO START\r\n***************************\r\n\r\nDescription:\r\n\r\nParameter 1 of constructor in sn.isi.service.AppUserService required a bean of type 'sn.isi.mapping.AppUserMapper' that could not be found.\r\n\r\n\r\nAction:\r\n\r\nConsider defining a bean of type 'sn.isi.mapping.AppUserMapper' in your configuration.\r\n",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
